@@ -1,3 +1,5 @@
+* For data related to this project, please contact globalhealthsecurity@georgetown.edu
+
 **Overview**
 
 Effectively responding to and managing the COVID-19 pandemic requires close operational coordination across sectors. These response efforts rely on the key principles of emergency management, including coordination of efforts as typically managed by Emergency Operations Centers (EOCs). This site, developed by Georgetown University and the US Centers for Disease Control and Prevention, provides rapid access to training materials, checklists, and other resources for development and strengthening of public health emergency management capacities, with an emphasis on EOCs.

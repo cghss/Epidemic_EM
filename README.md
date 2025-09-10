@@ -18,4 +18,4 @@ These efforts require close operational coordination across multiple sectors, an
 
 **Acknowledgements**
 
-This effort was completed by Georgetown University Center for Global Health Science and Security in collaboration with Talus Analytics, with support from the CDC Foundation and the Bill and Melinda Gates Foundation.
+This effort was completed by Georgetown University Center for Global Health Science and Security, with support from the CDC Foundation and the Bill and Melinda Gates Foundation.
